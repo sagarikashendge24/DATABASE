@@ -1,0 +1,10 @@
+{
+    "username": "sonam",
+    "password": "123@Sonam",
+    "userdetails": {
+        "FIRST_NAME": "sonam",
+        "LAST_NAME": "kumari",
+        "DATE_OFBIRTH": "24 aug",
+        "GENDER": "female"
+    }
+}
